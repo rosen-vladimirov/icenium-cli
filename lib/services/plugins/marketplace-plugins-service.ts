@@ -1,6 +1,6 @@
-///<reference path="../.d.ts"/>
+///<reference path="../../.d.ts"/>
 "use strict";
-import * as PluginsDataLib from "../plugins-data";
+import * as PluginsDataLib from "../../plugins-data";
 
 export class MarketplacePluginsService implements ICordovaPluginsService {
 
